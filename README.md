@@ -1,11 +1,11 @@
 # projetoaplicado2-2025
 Projeto Aplicado 2 - Ciências de Dados Mackenzie
 
-<img src="/pics/netflix.gif" alt="image" width="1200" height="750">
+<img src="/pics/MCK_horizontal_vermelho.png" alt="image" width="1200" height="750">
 
 # Análise das pontuações Netflix
 Projeto aplicado do curso de Ciências de Dados Mackenzie, com a finalidade de explorar os dados disponiveis das votações dos usuários do Netflix.
-[![Netflix](/pics/MCK_horizontal_vermelho.png)](#)
+[!(/pics/MCK_horizontal_vermelho.png)](#)
 
 
 ### Netflix
