@@ -1,7 +1,7 @@
 # projetoaplicado2-2025
 Projeto Aplicado 2 - Ciências de Dados Mackenzie
 
-<img src="/img/MCK_horizontal_vermelho.png" alt="image" width="1200" height="750">
+<img src="/src/img/MCK_horizontal_vermelho.png" alt="image" width="1200" height="750">
 
 Projeto aplicado II do curso de Ciências de Dados Mackenzie.
 
