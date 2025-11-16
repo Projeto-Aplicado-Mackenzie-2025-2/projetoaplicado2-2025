@@ -30,10 +30,10 @@ Este é um conjunto de dados para classificação de sentimentos binários que c
 O objetivo é analisar os dados e encontrar o NLP (Natural Language Processing), utilizando os processos de análise semântica, análise sintática, análise de sentimento, tokenização, remoção de stopwords
 
 ### Documento de Apresentação
-- [1ª Entrega](#)
-- [2ª Entrega](#)
-- [3ª Entrega](#)
-- [4ª Entrega](#)
+- [1ª Entrega](docs/entrega1.pdf)
+- [2ª Entrega](docs/entrega2.pdf)
+- [3ª Entrega](docs/entrega3.pdf)
+- [4ª Entrega](docs/entrega4.pdf)
 
 ### Cronograma
 - [Cronograma](#)
