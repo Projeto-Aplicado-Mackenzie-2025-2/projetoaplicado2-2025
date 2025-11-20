@@ -29,6 +29,10 @@ Este é um conjunto de dados para classificação de sentimentos binários que c
 ### Objetivos e Metas
 O objetivo é analisar os dados e encontrar o NLP (Natural Language Processing), utilizando os processos de análise semântica, análise sintática, análise de sentimento, tokenização, remoção de stopwords
 
+### Notebook
+- [Notebook](src/movies_feelings_analysis.ipynb)
+- [Tutorial](docs/rodar_projeto.pdf)
+
 ### Documento de Apresentação
 - [1ª Entrega](docs/entrega1.pdf)
 - [2ª Entrega](docs/entrega2.pdf)
@@ -39,7 +43,7 @@ O objetivo é analisar os dados e encontrar o NLP (Natural Language Processing),
 - [Cronograma](#)
 
 ### Apresentação
-Quer assistir nossa apresetação utilize o nosso link: [![Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](#) 
+Quer assistir nossa apresetação utilize o nosso link: [![Youtube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/s9NKTT0fH7s) 
 
 
 ### Autores
